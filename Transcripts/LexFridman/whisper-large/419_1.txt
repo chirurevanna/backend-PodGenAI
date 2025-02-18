@@ -1,0 +1,4 @@
+{
+  "transcription": " Take me through the OpenAI board saga that started on Thursday, November 16th, maybe Friday, November 17th for you. That was definitely the most painful professional experience of my life. And chaotic and shameful and upsetting and a bunch of other negative things. There were great things about it too, and I wish it had not been in such an adrenaline rush that I wasn't able to stop and appreciate them at the time. I came across this old tweet of mine, or this tweet of mine from that time period, which was like, it was like, you know, kind of going to your own eulogy, watching people say all these great things about you and, uh, just like unbelievable support from people I love and care about. Uh, that was really nice. Um,",
+  "duration": 3.64219069480896
+}

@@ -1,0 +1,5 @@
+{
+  "transcription": [
+    "you've launched a lot of companies and built a lot of products as you say most failed but some succeeded what's your philosophy behind building the startups that you did i think my philosophy is very different than most people in startups because most people in startups they build a company and they raise money right and they hire people and then they build a product and they find something that makes money and i don't really raise money i don't use vc funding i do everything myself i'm a designer i'm the developer i make everything i make the logo so for me i'm much more scrappy and and because i don't have funding like i need to i need to go fast i need to make things fast to see if an idea works right i have an idea in my mind and i build it build it like a micro mini startup and i launch it very quickly like within you know two weeks or something of building it and i check if there's demand and if people actually sign up and not just sign up but if people actually pay money right like they need to take out their credit cards pay me money and then i can see if the idea is"
+  ]
+}

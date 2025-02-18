@@ -1,0 +1,5 @@
+{
+  "transcription": [
+    "you've had some strong statements technical statements about the future of artificial intelligence recently throughout your career actually but recently as well you've said that autoregressive llms are not the way we're going to make progress towards superhuman intelligence these are the large language models like gpt four like llama two and threisoon and so on how do they work and why are they not going to take us all the way for a number of reasons the first is that there is a number of characteristics of intelligent behavior for example the capacity to understand the world understand the physical world the ability to remember and retrieve things persistent memory the ability to reason and the ability to plan those are four essential characteristic of intelligent"
+  ]
+}

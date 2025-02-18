@@ -1,0 +1,5 @@
+{
+  "transcription": [
+    "perplexity is part search engine part llm so how does it work and what role does each part of that the search and the llm play in serving the final result perplexity is best described as an answer engine so you ask it a question you get an answer except the difference is all the answers are backed by sources this is like how an academic writes a paper now that referencing part the sourcing part is where the search engine part comes in so you combine traditional search extract results relevant to the query the user asked you read those links extract the relevant paragraphs feed it into an llm llm means large language model and that llm takes the relevant paragraphs looks at the query and comes up with a well formatted answer with appropriate footnotes to every sentence"
+  ]
+}

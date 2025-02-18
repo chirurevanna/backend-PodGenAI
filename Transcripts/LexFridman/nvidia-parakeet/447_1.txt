@@ -1,0 +1,5 @@
+{
+  "transcription": [
+    "all right this is awesome we have michael aman swale arvid here from the cursor team first up big ridiculous question what's the point of a code editor so the code editor is largely the place where you build software and today or for a long time that's meant the place where you text edit a formal programming language and for people who aren't programmers the way to think of a code editor is like a really souped up word processor for programmers where the reason it's suped up is code has a lot of structure and so the quote unquote word processor the code editor can actually do a lot for you that word processors you know sort of in the writing space haven't been able to do for people editing text there and so you know that's everything from giving you visual differentiation of like the actual tokens in the code so you can like scan it quickly to letting you navigate around the code base sort of like you're navigating around the internet with like hyperlinks you're going to sort of definitions of things you're using to error checking"
+  ]
+}

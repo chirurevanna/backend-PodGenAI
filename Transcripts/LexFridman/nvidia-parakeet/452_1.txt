@@ -1,0 +1,5 @@
+{
+  "transcription": [
+    "let's start with the big idea of scaling laws and the scaling hypothesis what is it what is its history and where do we stand today so i can only describe it as it you know as it relates to kind of my own experience but i've been in the ai field for about ten years and it was something i noticed very early on so i first joined the ai world when i was working at baidu with andrew ng in late twenty fourteen which is almost exactly ten years ago now and the first thing we worked on was speech recognition systems and in those days i think deep learning was a new thing it had made lots of progress but everyone was always saying we don't have the algorithms we need to succeed you know we're not we're only matching a tiny tiny fraction there's so much we need to kind of discover algorithmically we haven't found the picture of how to match the human brain and when you know in some ways it was fortunate i was kind of you know you can have almost beginner's luck right i was"
+  ]
+}

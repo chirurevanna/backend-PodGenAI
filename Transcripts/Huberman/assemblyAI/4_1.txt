@@ -1,0 +1,4 @@
+{
+  "transcription": "Before we get to the origins of the universe and the organization of the planets relative to the sun and their spins, et cetera, you said something that at least to me feels intuitively so true, and I think it's very likely to be true for everybody, which is that there's something about looking up into space, especially at night when we see the stars and hopefully see the stars we'll talk about light pollution a little bit later when we see the stars that yes, we know these things are far away, yes, we know that they occupy a certain position in space, they have a diameter, et cetera. We might not know what that is just by looking at them. You probably do. But they also change our perception of time. And if I were to say one thing about the human brain especially is that sure, it's got all these autonomic functions. It regulates heart rate, digestion, et cetera, sleep, wake cycles.",
+  "duration": 7.121121644973755
+}

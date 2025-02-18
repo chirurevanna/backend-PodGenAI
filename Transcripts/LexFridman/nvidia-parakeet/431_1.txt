@@ -1,0 +1,5 @@
+{
+  "transcription": [
+    "what to you is the probability that superintelligent ai will destroy all human civilization what's the timeframe let's say a hundred years in the next hundred years so the problem of controlling agi or superintelligence in my opinion is like a problem of creating a perpetual safety machine by analogy with perpetual motion machine it's impossible yeah we may succeed and do a good job with gpt five six seven but they just keep improving learning eventually self modifying interacting with the environment interacting with malevolent actors the difference between cybersecurity narrow ai safety and safety for general ai for superintelligence is that we don't get a second chance with cybersecurity somebody hacks your account what's the big deal you get a new password new credit card you move on"
+  ]
+}
